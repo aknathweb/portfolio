@@ -3,7 +3,7 @@ body {
     margin: 0;
 }
 
-section {
+.flexiable {
     display: flex;
     margin-bottom: 150px;
 }
@@ -47,4 +47,24 @@ h1 {
 
 footer p {
     text-align: center;
+}
+
+.full-stack {
+    border-left: 10px solid blue;
+    box-shadow: 15px 15px 10px black;
+    margin-right: 2%;
+    margin-left: 5%;
+}
+
+.baby {
+    border-left: 10px solid red;
+    box-shadow: 15px 15px 10px black;
+    margin-right: 2%;
+    margin-left: 5%;
+}
+
+.Experiences {
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left center;
 }
