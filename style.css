@@ -23,6 +23,7 @@ h1 {
 
 .half-width img {
     width: 80%;
+    height: 100%;
 }
 
 .link-button {
